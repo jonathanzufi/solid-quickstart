@@ -9,6 +9,8 @@ export default function Home() {
 
       <p>
         <img src="../img/iconicmain.png"></img>
+      </p>
+      <p>
         Buy on Amazon Germany
         <a
           href="https://www.amazon.de/ICONIC-einzigartige-Industrial-Photographic-Innovation/dp/3837525260"
