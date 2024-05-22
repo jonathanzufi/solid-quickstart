@@ -16,9 +16,8 @@ export default function Home() {
           href="https://www.amazon.de/ICONIC-einzigartige-Industrial-Photographic-Innovation/dp/3837525260"
           target="_blank"
         >
-          here
+          here.
         </a>
-        .
       </p>
     </main>
   );
