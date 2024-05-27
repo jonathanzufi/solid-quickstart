@@ -7,7 +7,7 @@ export default function Home() {
       <h1>ICONIC - A Photographic Tribute to Apple Innovation</h1>
 
       <p>
-        <img src="../img/iconicmain.png"></img>
+        <img src="../img/ad-portables.web"></img>
       </p>
       <p>About</p>
     </main>
