@@ -1,4 +1,5 @@
 import { Title } from "solid-start";
+import Counter from "~/components/Counter";
 
 export default function Home() {
   return (
@@ -9,15 +10,7 @@ export default function Home() {
       <p>
         <img src="../img/iconicmain.png"></img>
       </p>
-      <p>
-        Buy it now at Amazon Germany{" "}
-        <a
-          href="https://www.amazon.de/ICONIC-einzigartige-Industrial-Photographic-Innovation/dp/3837525260"
-          target="_blank"
-        >
-          here.
-        </a>
-      </p>
+      <p>About</p>
     </main>
   );
 }
